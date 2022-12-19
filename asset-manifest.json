@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Recoa/static/css/main.21b9a5e2.css",
+    "main.js": "/Recoa/static/js/main.7a2b0c61.js",
+    "static/js/787.c91248c2.chunk.js": "/Recoa/static/js/787.c91248c2.chunk.js",
+    "static/media/Pic 008 - Recoa Square Main Shot.png": "/Recoa/static/media/Pic 008 - Recoa Square Main Shot.2666602f0e6099395ba2.png",
+    "static/media/Pic 001 - Home Page Image - D.png": "/Recoa/static/media/Pic 001 - Home Page Image - D.3674074cf8623d5b05f8.png",
+    "static/media/Pic 003 - Lekki Orchid District.jpg": "/Recoa/static/media/Pic 003 - Lekki Orchid District.488dbe41953030f0e64f.jpg",
+    "static/media/Pic 027 - Damilare Headshot.jpg": "/Recoa/static/media/Pic 027 - Damilare Headshot.25bf5d3e7c2532c85941.jpg",
+    "static/media/Pic 026 - Afolabi Headshot.jpg": "/Recoa/static/media/Pic 026 - Afolabi Headshot.e3193d4fdcc39f4bb107.jpg",
+    "static/media/Pic 028 - Chibuzor Headshot.jpg": "/Recoa/static/media/Pic 028 - Chibuzor Headshot.63ddb9f13fc78afe79f2.jpg",
+    "static/media/Pic 029 - Emmanuel Headshot.jpg": "/Recoa/static/media/Pic 029 - Emmanuel Headshot.458ebe5764a817468ba5.jpg",
+    "static/media/Pic 009 - Recoa Park.jpg": "/Recoa/static/media/Pic 009 - Recoa Park.9755d42eba137bd33002.jpg",
+    "static/media/Pic 002 - Victoria Island.png": "/Recoa/static/media/Pic 002 - Victoria Island.0fc9cab8296b4c16b63e.png",
+    "static/media/Pic 005 - Ikoyi Main.png": "/Recoa/static/media/Pic 005 - Ikoyi Main.365f76681370c9c3bbdb.png",
+    "static/media/Pic 006 - Banana Island.png": "/Recoa/static/media/Pic 006 - Banana Island.cca06a900c3f8cad19ce.png",
+    "static/media/Rectangle 49 (1).png": "/Recoa/static/media/Rectangle 49 (1).721da8281d55246a6d16.png",
+    "static/media/Rectangle 46 (1).jpg": "/Recoa/static/media/Rectangle 46 (1).fcd5609f98915917a8c7.jpg",
+    "static/media/default.jpg": "/Recoa/static/media/default.fcd5609f98915917a8c7.jpg",
+    "static/media/recoalogo.png": "/Recoa/static/media/recoalogo.ca660b0943c2ae7d29e4.png",
+    "static/media/successgif.gif": "/Recoa/static/media/successgif.61e74882d32369e4f2ab.gif",
+    "static/media/Rectangle 49 (3).jpg": "/Recoa/static/media/Rectangle 49 (3).cca64535ab3bc690e0f8.jpg",
+    "static/media/Rectangle 49 (6).jpg": "/Recoa/static/media/Rectangle 49 (6).bcaa1c72081d8a74a205.jpg",
+    "static/media/Rectangle 49 (4).jpg": "/Recoa/static/media/Rectangle 49 (4).d1807247f80dc58cc403.jpg",
+    "static/media/Rectangle 49 (7).jpg": "/Recoa/static/media/Rectangle 49 (7).316e371013b3a2270aba.jpg",
+    "static/media/Rectangle 69 (3).jpg": "/Recoa/static/media/Rectangle 69 (3).1715ae6cf002132f820f.jpg",
+    "static/media/Rectangle 66.jpg": "/Recoa/static/media/Rectangle 66.9d0c1d31398275ba2626.jpg",
+    "index.html": "/Recoa/index.html",
+    "main.21b9a5e2.css.map": "/Recoa/static/css/main.21b9a5e2.css.map",
+    "main.7a2b0c61.js.map": "/Recoa/static/js/main.7a2b0c61.js.map",
+    "787.c91248c2.chunk.js.map": "/Recoa/static/js/787.c91248c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21b9a5e2.css",
+    "static/js/main.7a2b0c61.js"
+  ]
+}
