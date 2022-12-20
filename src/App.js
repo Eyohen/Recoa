@@ -102,7 +102,7 @@ function App() {
               )}
 
               <Routes>
-                <Route exact path="/" element={<HomeComp />} />
+                <Route exact path="/recoa" element={<HomeComp />} />
                 <Route exact path="/about_us" element={<Aboutus />} />
                 <Route
                   exact
